@@ -1,6 +1,6 @@
 # Basic-Chrome-Extension
 
-### Follow the following steps to get the extension on your chrome browser
+## Follow the following steps to get the extension on your chrome browser
 ### 1. Go to extensions page in chrome
 ### 2. Turn on Developer mode
 ### 3. Click on 'Load Unpacked' and select the folder containing the extension files.
