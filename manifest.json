@@ -1,0 +1,10 @@
+{
+    "name": "Subhopriyo's Extension",
+    "version": "1.0",
+    "description": "First Try",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_popup":"index.html",
+        "default-icon":"logo.png"
+    }
+}
